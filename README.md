@@ -1,2 +1,2 @@
-# battle-of-the-neighborhoods
+# Coursera Capstone
 IBM Data Science Professional Certificate Capstone
